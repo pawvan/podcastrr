@@ -75,8 +75,6 @@ In the project directory, you can run:
 
 We welcome contributions! Please open an issue or submit a pull request to help improve Podcastr.
 
-## License
 
-This project is licensed under the MIT License.
 
 ---
